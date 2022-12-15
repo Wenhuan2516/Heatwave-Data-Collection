@@ -27,7 +27,7 @@
 <img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/days1.png" alt="step" title="step">
 <img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/days2.png" alt="step" title="step">
 <img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/days3.png" alt="step" title="step">
-
+<img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/days4.png" alt="step" title="step">
 
 
 
