@@ -5,7 +5,10 @@
 
 ## Steps to find out the heatwave frequency and days:
 ### Step 1. Collect the max temperature data during 1961 to 1990 from NOAA:
-https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/maxtemp1.png
+<img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/maxtemp1.png" alt="step" title="step">
+<img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/maxtemp2.png" alt="step" title="step">
+<img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/maxtemp3.png" alt="step" title="step">
+
 ### Step 2. Assign the max temp data to the nearest county:
 ### Step 3. Find the average max temperature during 1961 to 1990:
 ### Step 4. Collect the daily temperature data from NOAA from 2000 to 2020
