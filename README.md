@@ -16,9 +16,17 @@
 <img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/averagemax.png" alt="step" title="step">
 
 ### Step 4. Collect the daily temperature data from NOAA from 2000 to 2020
+<img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/dailytemp.png" alt="step" title="step">
 
 ### Step 4. Based on the max temperature during 1961 to 1990, count one heatwave if there are at least 5 consecutive days in each year for each county: 
+<img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/count1.png" alt="step" title="step">
+<img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/count2.png" alt="step" title="step">
+<img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/count2.png" alt="step" title="step">
+
 ### Step 5. Find the heatwave days if the daily max temperature is over the average max temperature during 1961 to 1990:
+<img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/days1.png" alt="step" title="step">
+<img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/days2.png" alt="step" title="step">
+<img src="https://github.com/Wenhuan2516/Heatwave-Data-Collection/blob/main/days3.png" alt="step" title="step">
 
 
 
